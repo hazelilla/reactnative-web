@@ -1,0 +1,34 @@
+{
+  "compilerOptions": {
+    "jsx": "react"
+  },
+  "compilerOptions": {
+    "jsx": "react"
+  },
+  "compilerOptions": {
+    "jsx": "react"
+  },
+  "compilerOptions": {
+    "jsx": "react"
+  },
+  "compilerOptions": {
+    "jsx": "react"
+  },
+  "compilerOptions": {
+    "jsx": "react"
+  },
+  "compilerOptions": {
+    "lib": ["es6", "dom"],
+    // other options...
+  },
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  }
+  "extends": "@react-native/typescript-config/tsconfig.json"
+}
